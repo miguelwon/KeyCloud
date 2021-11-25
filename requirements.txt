@@ -1,0 +1,6 @@
+nltk
+string
+numpy
+scipy
+sent2vec
+wordcloud
