@@ -9,7 +9,6 @@ def asphorbidden(token):
     return any(x in token for x in phorbidden)
 
 
-
 def candidate_chunks(text_pos,chunker):
     chunks = chunker.parse(text_pos)
     subtrees = chunks.subtrees(filter=lambda t: t.label() == 'NP')

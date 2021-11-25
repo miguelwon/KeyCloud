@@ -5,7 +5,6 @@ from sklearn.feature_extraction.text import TfidfVectorizer,CountVectorizer
 
 from .utils import *
 
-
 class KeyCloud():
     def __init__(self,lan = 'en'):
 

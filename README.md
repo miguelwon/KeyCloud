@@ -13,5 +13,3 @@ H1: A model based in simple heuristic, based in each document features only, to 
 H2: The same as H1 with idf information added.
 
 EmbRank s2v. A model based in the following paper:
-
-* **EmbedRank: Unsupervised Keyphrase Extraction using Sentence Embeddings.** Bennani-Smires, Kamil, et al. *arXiv:1801.04470 (2018).*
