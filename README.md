@@ -1,4 +1,4 @@
-# keycloud
+# KeyCloud
 
 KeyCloud is a simple keyphrase extractor and a keyphrase-cloud generator.
 
